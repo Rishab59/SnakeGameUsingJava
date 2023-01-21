@@ -6,7 +6,7 @@
 This code is developed using <b>Eclipse IDE</b>.
 <br>
   
-The Code can be directly executed by double clicking "SnakeGameByRishab.bat" Batch file.
+The Code can be directly executed by double clicking <b>"SnakeGameByRishab.bat"</b> Batch file.
 <br>
 
 This is a **Snake game** developed using **Java Swing**.
