@@ -4,6 +4,7 @@
 <h3> <u> <b>Developer's Name : Rishab.H</b> </u> </h3>
 <p>
 This code is developed using <b>Eclipse IDE</b>.
+<br>
 The Code can be directly executed by double clicking "SnakeGameByRishab.bat" Batch file.
 <br>
 
